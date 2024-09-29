@@ -6,9 +6,11 @@ test diagramme
 
 
 ## Idées
-### Concept
-### Objectifs
-### Motivations
+### Concept :
+Le projet utilise des télévisions cathodiques pour afficher des poissons en 3D dans un aquarium virtuel. Quand une personne s'approche de l'écran, des capteurs déclenchent une réaction des poissons, qui viennent à sa rencontre.
+
+### Objectif :
+Combiner la modernité et la nostalgie, en plus de la réutilisation de télévisions. Le choix de l'écran cathodique ajoute une texture visuelle unique, comme les couleurs plus saturées et l'effet légèrement flou, renforçant l'expérience sensorielle pour le spectateur.
 <br>
 <hr>
 
@@ -65,8 +67,6 @@ graph TD;
   - Trépieds pour haut-parleurs
   
 ### Logiciels
-- TouchDesigner
-- Arduino IDE
-- Maya/ Blender
-- Illustrator
-- After Effect
+| TouchDesigner | Arduino IDE | Maya | Illustrator | After Effect |
+|----|----|----|----|----|
+
