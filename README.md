@@ -28,6 +28,7 @@ graph TD;
 
 ## Ambiance
 ### Moodboard visuel
+![Moodboard visuel](./images/moodboard_visuel.png)
 ### Moodboard sonore
 ### Références artistiques
 <br>
