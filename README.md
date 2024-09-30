@@ -38,6 +38,9 @@ Des capteurs de mouvements détectent la présences des visiteurs et attirent de
 <hr>
 
 ## <span style="color:#66CCFF">Technologie</span>
+**Logiciels :**
+TouchDesigner, Arduino IDE, Maya, Illustrator, After Effect <br>
+<br>
 **Matériel**
 - M5Stack :
     - AtomPoE
@@ -65,9 +68,5 @@ Des capteurs de mouvements détectent la présences des visiteurs et attirent de
   - Structure + accessoires pour installer les lumières
   - Haut-parleurs
   - Trépieds pour haut-parleurs
-  
-**Logiciels**
-| TouchDesigner | Arduino IDE | Maya | Illustrator | After Effect |
-|----|----|----|----|----|
-| ![](https://insmac.org/uploads/posts/2023-05/touchdesigner.png) | ![](https://cdn.icon-icons.com/icons2/159/PNG/256/arduino_22429.png) | ![](https://www.cadlinecommunity.co.uk/hc/article_attachments/5338683140253/autodesk-maya-product-icon-128_2x.png) | ![](https://static-00.iconduck.com/assets.00/adobe-illustrator-icon-256x256-t2dggjlq.png) | ![](https://cdn-icons-png.flaticon.com/256/5968/5968428.png) |
+
 
