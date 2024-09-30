@@ -28,7 +28,7 @@ Des capteurs de mouvements détectent la présences des visiteurs et attirent de
 <br>
 <hr>
 
-## <span style="color:#B266FF">Ambiance</span>
+## <span style="color:#66CCFF">Ambiance</span>
 **Moodboard visuel**
 ![Moodboard visuel](./images/moodboard_visuel.png)<br>
 **Moodboard sonore**<br>
