@@ -2,10 +2,10 @@
 
 ## <span style="color:#B266FF">Idées</span><br>
 **Concept :**
-Le projet utilise des télévisions cathodiques pour afficher des poissons en 3D dans un aquarium virtuel. Quand une personne s'approche de l'écran, des capteurs déclenchent une réaction des poissons, qui viennent à sa rencontre.
+Le projet utilise des télévisions cathodiques pour afficher des poissons en 3D dans un aquarium virtuel. Quand une personne s'approche de l'écran, des capteurs déclenchent une réaction des poissons, qui viennent à sa rencontre. Après quelques minutes, les poissons se mettent à danser.
 
 **Objectif :**
-Combiner la modernité et la nostalgie, en plus de la réutilisation de télévisions. Le choix de l'écran cathodique ajoute une texture visuelle unique, comme les couleurs plus saturées et l'effet légèrement flou, renforçant l'expérience sensorielle pour le spectateur.
+Divertir les visiteurs dans un environnement rétro et nostalgique.
 <br>
 <hr>
 
