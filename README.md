@@ -1,9 +1,4 @@
 # ES-2 - Scénarisation
-# TEMPLATE TEMPORAIRE
-
-Lorem ipsum blabla <br>
-test diagramme
-
 
 ## Idées
 ### Concept :
@@ -18,10 +13,13 @@ Combiner la modernité et la nostalgie, en plus de la réutilisation de télévi
 ### Logigramme de l'interactivité
 ```mermaid
 graph TD;
-    A[Rectangle] -- msg -->B(Arrondi);
-    A-->D;
-    B-->D;
-    C([bulle])-->D{losange};
+    A[ENTRÉE]-- État initial sans visiteur -->B([Les poissons nagent tranquillement]);
+    B-->C{Interaction};
+    C-- Visiteur en mouvement -->D([Les poissons suivent le mouvement]);
+    C-- Visiteur en observation -->E([Après quelques minutes, les poissons dansent]);
+    D-->F[SORTIE];
+    E-->F[SORTIE];
+    
 ```
 ### Narratif (synopsis?)
 ### Expérience utilisateur
