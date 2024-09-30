@@ -9,11 +9,7 @@ Divertir les visiteurs dans un environnement rétro et nostalgique.
 <br>
 
 **Inspiration :**
-J'ai eu l'idée de conceptualiser ce projet pendant que j'essayais d'envoyer le signal de mon lecteur VHS par antenne à un Watchman (petite télévision portative des années 90) que j'ai récemment acheté dans un magasin Renaissance. J'ai aussi été inspirée par les mondes aquatiques dans la série de jeux Donkey Kong Country sur SNES.
-
-**Démarche :**
-Conceptualiser un projet pour lequel je pense avoir les connaissances et compétences nécessaires pour le réaliser.
-<br>
+J'ai eu l'idée de conceptualiser ce projet pendant que j'envoyais le signal de mon lecteur VHS par antenne à un Watchman (petite télévision portative des années 90). J'ai par la suite été inspirée par les mondes aquatiques dans la série de jeux Donkey Kong Country sur SNES, les télévisions/iMac converti en aquarium et aussi le département des aquariums dans les animaleries.
 <hr>
 
 ## <span style="color:#66CCFF">Scénario</span><br>
