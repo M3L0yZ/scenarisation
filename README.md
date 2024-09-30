@@ -1,6 +1,6 @@
 <h1 style="text-align:center;">AQUARIUM</h1>
 
-## <span style="color:#B266FF">Idées</span><br>
+## <span style="color:#66CCFF">Idées</span><br>
 **Concept :**
 Le projet utilise des télévisions cathodiques pour afficher des poissons en 3D dans un aquarium virtuel. Quand une personne s'approche de l'écran, des capteurs déclenchent une réaction des poissons, qui viennent à sa rencontre. Après quelques minutes, les poissons se mettent à danser.
 
@@ -9,7 +9,7 @@ Divertir les visiteurs dans un environnement rétro et nostalgique.
 <br>
 <hr>
 
-## <span style="color:#B266FF">Scénario</span><br>
+## <span style="color:#66CCFF">Scénario</span><br>
 **Logigramme de l'interactivité**
 ```mermaid
 graph TD;
@@ -37,7 +37,7 @@ Des capteurs de mouvements détectent la présences des visiteurs et attirent de
 <br>
 <hr>
 
-## <span style="color:#B266FF">Technologie</span>
+## <span style="color:#66CCFF">Technologie</span>
 **Matériel**
 - M5Stack :
     - AtomPoE
